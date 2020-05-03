@@ -1,4 +1,8 @@
-# Docker Nodejs Vue Todo list example
+# docker_project
+# IIEC_RISE Docker Project under the mentorship of Vimal Daga Sir .
+
+
+## Docker Nodejs Vue Todo list example
 #Pradeep Kumar
 > Simple example of a dockerized Node/Vue/Mongo app
 
